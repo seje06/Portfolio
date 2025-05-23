@@ -2,8 +2,12 @@
 
 ## 1. 크레이지닷지볼 (Crazy Dodgeball)
 
-![게임 이미지 1](https://github.com/user-attachments/assets/1e15ea8a-2442-42dd-8835-4a561bf9a018)
-![게임 이미지 2](https://github.com/user-attachments/assets/028c41ef-98d4-4617-96f8-000c949cd150)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1e15ea8a-2442-42dd-8835-4a561bf9a018" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/028c41ef-98d4-4617-96f8-000c949cd150" width="400"/></td>
+  </tr>
+</table>
 
 [📄 크레이지닷지볼 최종 기획서 (PDF)](https://github.com/user-attachments/files/20388583/default.pdf)
 
