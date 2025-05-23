@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-[📄 크레이지닷지볼 최종 기획서 (PDF)](https://github.com/user-attachments/files/20388583/default.pdf)
+[📄소개(PDF)](https://github.com/user-attachments/files/20388583/default.pdf)
 
 ---
 
