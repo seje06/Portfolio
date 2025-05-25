@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-[📄소개(PDF)](https://github.com/user-attachments/files/20405203/_.pdf)
+[📄소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf)
 
 ---
 
@@ -20,11 +20,6 @@
 - **플랫폼**: PC (Windows)  
 - **개발 인원**: 프로그래머 2명  
 - **개발 기간**: 2025년 4월 1일 ~ 5월 6일
-
----
-
-### 📁 기획서
-- [크레이지닷지볼 최종 기획서 보기](https://github.com/user-attachments/files/20388583/default.pdf)
 
 ---
 
