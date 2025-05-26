@@ -37,7 +37,18 @@
 - AI 캐릭터 상태 기반 행동 구현  
 - 게임 UI: 체력, 스킬 쿨타임, 게임 오버 처리  
 - 시네마틱을 활용한 인트로
+
 ---
+---
+
+## 2. 머신러닝을 활용한 멀티대전게임
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2e6c2090-9c91-4586-b378-e54000f0981c" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/326573f1-2999-4b8a-bd34-6f279d60e860" width="400"/></td>
+  </tr>
+</table>
 
 
 
