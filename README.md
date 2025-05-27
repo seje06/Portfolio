@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-[📄소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf)
+[📄자세한 소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf)
 
 ---
 
