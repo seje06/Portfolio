@@ -24,7 +24,7 @@
 ---
 
 ### 🎥 플레이 영상
-- (https://youtu.be/RFvtOhPND2c)
+- (https://youtu.be/Lq0M5MXvgk4)
 
 ---
 
