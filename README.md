@@ -55,7 +55,7 @@
 
 [📄논문(PDF)](https://github.com/user-attachments/files/20435744/_.-.pdf)
 
-[소스코드](https://github.com/seje06/Portfolio/releases/tag/FightingGame)
+[소스코드](https://github.com/seje06/Portfolio/tree/main/Source/FightingGame)
 ---
 
 ### 📌 기본 정보
