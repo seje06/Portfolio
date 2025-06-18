@@ -11,7 +11,7 @@
 
 [📄자세한 소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf)
 
-[소스코드](https://github.com/seje06/Portfolio/releases/tag/CrazyDodgeball)
+[소스코드](https://github.com/seje06/Portfolio/tree/main/Source/CreazyDodgeball)
 ---
 
 ### 📌 기본 정보
