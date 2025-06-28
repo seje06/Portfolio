@@ -38,6 +38,7 @@
 - AI 캐릭터 상태 기반 행동 구현  
 - 게임 UI: 체력, 스킬 쿨타임, 게임 오버 처리  
 - 시네마틱을 활용한 인트로
+  
 [핵심 기능 기술서.pdf](https://github.com/user-attachments/files/20960845/default.pdf)
 
 ---
