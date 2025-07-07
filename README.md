@@ -1,4 +1,4 @@
-# 🎮 게임 개발 포트폴리오
+# 게임 개발 포트폴리오
 
 ## 1. 크레이지닷지볼 (Crazy Dodgeball)
 
@@ -9,12 +9,12 @@
   </tr>
 </table>
 
-[📄자세한 소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf)
+[자세한 소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf)
 
 [소스코드](https://github.com/seje06/Portfolio/tree/main/Source/CreazyDodgeball)
 ---
 
-### 📌 기본 정보
+### 기본 정보
 - **장르**: 1인칭 시점, 스킬을 활용한 캐쥬얼 피구 게임, PvE  
 - **사용 툴 및 언어**: 언리얼 5.44, c++
 - **형상 관리**: 깃허브 데스크탑 
@@ -24,12 +24,12 @@
 
 ---
 
-### 🎥 플레이 영상
+### 플레이 영상
 - (https://youtu.be/Lq0M5MXvgk4)
 
 ---
 
-### ⚙ 기능 구현
+### 기능 구현
 코드 비중 약 70%
 - 공 제어 시스템
 - 플레이하는 캐릭터 전환 
@@ -56,12 +56,12 @@
   </tr>
 </table>
 
-[📄논문(PDF)](https://github.com/user-attachments/files/20435744/_.-.pdf)
+[논문(PDF)](https://github.com/user-attachments/files/20435744/_.-.pdf)
 
 [소스코드](https://github.com/seje06/Portfolio/tree/main/Source/FightingGame)
 ---
 
-### 📌 기본 정보
+### 기본 정보
 
 - **장르**: 3인칭 쿼터뷰 시점, 머신러닝을 활용한 멀티대전게임, PvP, PvE
 - **사용 툴 및 언어**: 유니티, C#
@@ -72,12 +72,12 @@
 
 ---
 
-### 🎥 플레이 영상
+### 플레이 영상
 - (추후 추가 예정)
 
 ---
 
-### ⚙ 기능 구현
+### 기능 구현
 - 기본 동작(이동, 공격, 구르기 등)
 - 포톤 Pun2을 활용한 멀티 구현(로비, 룸, 채팅 등)
 - 스킬 시스템 구현 (공격, 방어, 유틸)
