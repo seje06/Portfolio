@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-[자세한 소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf)
+[자세한 소개(PDF)](https://github.com/user-attachments/files/20431727/_.pdf), 
 [핵심 기능 기술서.pdf](https://github.com/user-attachments/files/20967836/default.pdf)
 
 [소스코드](https://github.com/seje06/Portfolio/tree/main/Source/CreazyDodgeball)
