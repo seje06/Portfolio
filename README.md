@@ -21,7 +21,7 @@
 ---
 
 ### 플레이 영상
-- ()
+- (https://www.youtube.com/shorts/1pEHYDXp5FY)
 
 ---
 
