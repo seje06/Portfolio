@@ -39,7 +39,7 @@
 ---
 
 ### 플레이 영상
-- (https://www.youtube.com/shorts/1pEHYDXp5FY)
+- (https://www.youtube.com/shorts/1pEHYDXp5FY) 해당 영상은 DHCP예약, 포트포워딩 과정을 거쳐 실제 외부 피시와 통신하여 진행한 게임 영상입니다.
 
 ---
 
