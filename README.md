@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-[멀티 게임 구현서(PDF)](https://github.com/user-attachments/files/22627177/Cpp.pdf), 
+[멀티 게임 구현서(PDF)](https://github.com/user-attachments/files/22655387/Cpp.pdf), 
 [소스코드](https://github.com/seje06/CPP_NetGame)
 ---
 
