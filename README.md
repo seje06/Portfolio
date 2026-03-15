@@ -3,14 +3,18 @@
 ---
 
 ## 목차
-- [CPP Multi Game](#1-cpp-multi-game)
-- [크레이지닷지볼 - Unreal](#2-크레이지닷지볼-crazy-dodgeball)
-- [비스트 오브 아레나 - Unity](#3-비스트-오브-아레나)
+- [채팅 프로그램 - IOCP, MFC기반](#1-iocp(서버)-mfc(클라이언트)기반-채팅-프로그램)
+- [CPP Multi Game](#2-cpp-multi-game)
+- [크레이지닷지볼 - Unreal](#3-크레이지닷지볼-crazy-dodgeball)
+- [비스트 오브 아레나 - Unity](#4-비스트-오브-아레나)
 
 ---
 ---
 
-## 1. CPP Multi Game
+## 1. IOCP(서버) MFC(클라이언트)기반 채팅 프로그램
+- [바로가기](https://github.com/seje06/ChattingProgram/blob/main/README.md)
+
+## 2. CPP Multi Game
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/57325196-ae8e-4b51-8b3f-60f349aaa87a" width="500"/></td>
@@ -55,7 +59,7 @@
 ---
 ---
 
-## 2. 크레이지닷지볼 (Crazy Dodgeball)
+## 3. 크레이지닷지볼 (Crazy Dodgeball)
 
 <table>
   <tr>
@@ -100,7 +104,7 @@
 ---
 ---
 
-## 3. 비스트 오브 아레나
+## 4. 비스트 오브 아레나
 
 해당 프로젝트는 대학교 전공 캡스톤 과제로, 이러한 시도를 해봤다는것에 의의를 두고 있습니다.
 
