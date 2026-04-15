@@ -4,7 +4,7 @@
 
 ## 목차
 - ### 서버 및 응용SW
-  - [채팅 프로그램 - IOCP, MFC기반](#1-iocp(서버)-mfc(클라이언트)기반-채팅-프로그램)
+  - [채팅 프로그램 - IOCP, MFC기반](https://github.com/seje06/ChattingProgram/blob/main/README.md)
   - [이미지 관리 프로그램 - MFC기반](https://github.com/seje06/image_management_program/blob/main/README.md)
   - [이미지 처리 API 서버](https://github.com/seje06/cv-api_project/blob/main/README.md)
 - ### 게임
@@ -15,10 +15,7 @@
 ---
 ---
 
-## 1. IOCP(서버) MFC(클라이언트)기반 채팅 프로그램
-- [바로가기](https://github.com/seje06/ChattingProgram/blob/main/README.md)
-
-## 2. CPP Multi Game
+## 1. CPP Multi Game
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/57325196-ae8e-4b51-8b3f-60f349aaa87a" width="500"/></td>
@@ -63,7 +60,7 @@
 ---
 ---
 
-## 3. 크레이지닷지볼 (Crazy Dodgeball)
+## 2. 크레이지닷지볼 (Crazy Dodgeball)
 
 <table>
   <tr>
