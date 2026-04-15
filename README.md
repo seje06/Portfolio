@@ -3,10 +3,14 @@
 ---
 
 ## 목차
-- [채팅 프로그램 - IOCP, MFC기반](#1-iocp(서버)-mfc(클라이언트)기반-채팅-프로그램)
-- [CPP Multi Game](#2-cpp-multi-game)
-- [크레이지닷지볼 - Unreal](#3-크레이지닷지볼-crazy-dodgeball)
-- [비스트 오브 아레나 - Unity](#4-비스트-오브-아레나)
+- ### 서버 및 응용SW
+  - [채팅 프로그램 - IOCP, MFC기반](#1-iocp(서버)-mfc(클라이언트)기반-채팅-프로그램)
+  - [이미지 관리 프로그램 - MFC기반](https://github.com/seje06/image_management_program/blob/main/README.md)
+  - [이미지 처리 API 서버](https://github.com/seje06/cv-api_project/blob/main/README.md)
+- ### 게임
+  - [CPP Multi Game](#2-cpp-multi-game)
+  - [크레이지닷지볼 - Unreal](#3-크레이지닷지볼-crazy-dodgeball)
+  - [비스트 오브 아레나 - Unity](#4-비스트-오브-아레나)
 
 ---
 ---
